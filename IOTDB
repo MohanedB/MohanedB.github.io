@@ -1,0 +1,40 @@
+//Record Collection
+
+{
+"recordID":
+"collectionID":
+"records": [
+        { "time": , "light": ", "temp": ,  "humidity": },  
+        { "time": , "light": ", "temp": ,  "humidity": },  
+        { "time": , "light": ", "temp": ,  "humidity": },      
+    ]
+}
+
+//Readings Collection
+{
+"collectionID":
+"collection_name":
+"recordID":
+"start_time":
+"end_time":
+"time_elapsed":
+"avg_light_reading":
+"avg_temperature": 
+"avg_humidity":
+"goal_ID":
+"light_grade":
+"temp_grade":
+"humidity_grade":
+"room_quality_grade":
+}
+
+//Goal Collection
+{
+"goal_ID"
+"goal_name"
+"avg_temp"
+"avg_light"
+"avg_humidity"
+
+}
+
